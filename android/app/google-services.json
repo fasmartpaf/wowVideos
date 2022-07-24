@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011329452142",
+    "project_id": "vidoeapp-6bf77",
+    "storage_bucket": "vidoeapp-6bf77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011329452142:android:67952a7df402eec89a3e7f",
+        "android_client_info": {
+          "package_name": "app.saasmonks.acoustic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011329452142-0bj2s81vjt7pourmcekhd4tso8be6ms2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.saasmonks.acoustic",
+            "certificate_hash": "c75c6d935d0033cdc4f5c275e60fe78b3221bdcb"
+          }
+        },
+        {
+          "client_id": "1011329452142-pl8m2o4iikb0ti00r8k14h9c07v7hnbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexiZMZMxZiiHiYECwS3tf2rJ3Q_6Mpk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011329452142-pl8m2o4iikb0ti00r8k14h9c07v7hnbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
